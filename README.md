@@ -1,0 +1,1 @@
+A tiny handwriting recognition system. (data from Machine Learning in Action book).
